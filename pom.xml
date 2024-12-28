@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>spring.security.explore</groupId>
-    <artifactId>explore-spring-securyty</artifactId>
+    <artifactId>explore-spring-security</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>explore-spring-securyty</name>
     <description>explore-spring-securyty</description>
